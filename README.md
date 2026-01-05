@@ -22,6 +22,15 @@ The project was developed as a capstone demonstrating end-to-end ML workflow: da
 
 ---
 
+## Presentations
+
+- **Technical Presentation (Jupyter Slides):**
+  `notebooks/02_technical_presentation_slides.ipynb`
+
+- **Business-Facing Presentation (PowerPoint):**
+  `reports/business_presentation_explainable_ids.pptx`
+
+
 ## Project Structure
 
 ```text
@@ -47,10 +56,5 @@ erecongco-capstone-unsw-nb15/
 │── .gitignore
 │── LICENSE
 
-## Presentations
+---
 
-- **Technical Presentation (Jupyter Slides):**
-  `notebooks/02_technical_presentation_slides.ipynb`
-
-- **Business-Facing Presentation (PowerPoint):**
-  `reports/business_presentation_explainable_ids.pptx`
