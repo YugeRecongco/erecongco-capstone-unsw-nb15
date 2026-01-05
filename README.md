@@ -25,17 +25,27 @@ The project was developed as a capstone demonstrating end-to-end ML workflow: da
 ## Project Structure
 
 ```text
-ERECONGCO-CAPSTONE-UNSW-NB15/
-├── data/                      # Dataset files or pointers
-├── notebooks/                 # Jupyter notebooks (analysis + technical slides)
+erecongco-capstone-unsw-nb15/
+│── data/
+│   └── README.md
+│── notebooks/
 │   ├── 01_capstone_unsw_nb15_full_analysis.ipynb
 │   └── 02_technical_presentation_slides.ipynb
-├── src/                       # Reusable preprocessing and modeling code
-├── outputs/                   # Figures, metrics, intermediate results
-├── reports/                   # Final reports and presentations
+│── src/
+│   ├── README.md
+│   ├── __init__.py
+│   ├── preprocessing.py
+│   ├── modeling.py
+│   ├── evaluation.py
+│   └── explainability.py
+│── reports/
 │   └── business_presentation_explainable_ids.pptx
-├── README.md
-└── requirements.txt
+│── outputs/
+│   └── README.md
+│── README.md
+│── requirements.txt
+│── .gitignore
+│── LICENSE
 
 ## Presentations
 
